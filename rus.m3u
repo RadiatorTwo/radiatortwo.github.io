@@ -12,7 +12,7 @@ http://iptv.ktkru.ru:8005/index.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/45b81bdfdf75bff95afaa829a38b0c1bacddf1767106ae581e9682e403514269/68747470733a2f2f692e696d6775722e636f6d2f53313267614c632e706e67",Россия-Культура
 http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
-http://iptv.ktkru.ru:8007/index.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/0ae4dca6c801aed3453a28727b698b79438043e42496d2d76d6acf76aadb4676/68747470733a2f2f692e696d6775722e636f6d2f3466464d6c56712e706e67",Карусель
 http://iptv.ktkru.ru:8008/index.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d6324d81846b02aeb5081f4328c4e7316cc0d2f8d3c3d4a9e27b078a08abed02/68747470733a2f2f692e696d6775722e636f6d2f51795a765433652e706e67",ОТР 
@@ -22,18 +22,18 @@ http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/678d4191350ac1cd7a17dda0f1c54c5326ebbf14b7fdc1af1e91f84ff986db72/68747470733a2f2f692e696d6775722e636f6d2f313854417a59562e706e67",Рен ТВ
 http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/a94ed10d1f3598b0604be18b70283415264d71c28076efe61c5e5da7c646a69b/68747470733a2f2f692e696d6775722e636f6d2f793962707155442e706e67",СТС 
-http://iptv.ktkru.ru:8012/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/460b5e1033d2908296548038af7d1fb64654d31c3db5b59e91ecc070b336f628/68747470733a2f2f692e696d6775722e636f6d2f6538776c4d49742e706e67",Домашний 
 http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d1d604ec88c8a5286112b7099fd16cebe011262e5e43208ff8a4bf496e84f1ec/68747470733a2f2f692e696d6775722e636f6d2f6b6a61785a6d732e706e67",ТВ-3
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/460b5e1033d2908296548038af7d1fb64654d31c3db5b59e91ecc070b336f628/68747470733a2f2f692e696d6775722e636f6d2f6538776c4d49742e706e67",Домашний 
 http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d9ff9529fa939501bf52e40ec858d66a9de719677fbeaac692a8f9847f8f88f0/68747470733a2f2f692e696d6775722e636f6d2f725331317a56422e706e67",Пятница! 
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d1d604ec88c8a5286112b7099fd16cebe011262e5e43208ff8a4bf496e84f1ec/68747470733a2f2f692e696d6775722e636f6d2f6b6a61785a6d732e706e67",ТВ-3
 http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/f62b34b4cc8240c12bfe308932a6d0cf783c0209f0dfcdacfec01f54f9b0f24d/68747470733a2f2f692e696d6775722e636f6d2f63304c306e63412e706e67",Звезда 
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d9ff9529fa939501bf52e40ec858d66a9de719677fbeaac692a8f9847f8f88f0/68747470733a2f2f692e696d6775722e636f6d2f725331317a56422e706e67",Пятница! 
 http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/f62b34b4cc8240c12bfe308932a6d0cf783c0209f0dfcdacfec01f54f9b0f24d/68747470733a2f2f692e696d6775722e636f6d2f63304c306e63412e706e67",Звезда 
 http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/c43cc617b6de3b9b83dc14a27992cfab4b39463d686c85e47203dd42461b490e/68747470733a2f2f692e696d6775722e636f6d2f31577149504f422e706e67",ТНТ 
-http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",Муз-ТВ
 http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",Муз-ТВ
+http://iptv.ktkru.ru:8020/index.m3u8
