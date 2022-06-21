@@ -1,69 +1,65 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="AnixeHDSerie.de"group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png"tvg-logo="Undefined",Anixe HD Serie (360p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="MotorvisionTV.de"group-title="https://i.imgur.com/QDZrBDi.png"tvg-logo="Auto",Motorvision TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-#EXTINF:-1 tvg-id="One1MusicTV.de"group-title="https://i.imgur.com/lGjGcot.png"tvg-logo="Music",ONE1 Music (1080p)
-https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
-#EXTINF:-1 tvg-id="ONE1Slovenija.de"group-title="https://i.imgur.com/fHbHbEH.png"tvg-logo="Music",ONE1 Slovenija (1080p)
-https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="AutoMotorundSport.de"group-title="https://i.imgur.com/SbCaP6F.png"tvg-logo="Auto",Pluto TV Auto Motor Sport (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
-#EXTINF:-1 tvg-id="BabyFirst.us"group-title="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"tvg-logo="Kids",Pluto TV BabyFirst (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="BeybladeBurstGermany.us"group-title="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png"tvg-logo="Kids",Pluto TV Beyblade Burst Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="BlazeunddieMonsterMaschinenNickGermany.us"group-title="https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png"tvg-logo="Kids",Pluto TV Blaze Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="BluesCluesGermany.us"group-title="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png"tvg-logo="Kids",Pluto TV Blue's Clues Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="iCarlyGermany.us"group-title="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png"tvg-logo="Kids",Pluto TV iCarly Nick (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=406&terminate=false&userId=
-#EXTINF:-1 tvg-id="iCarlyPlusGermany.us"group-title="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png"tvg-logo="Kids",Pluto TV iCarly+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVInsideGermany.us"group-title="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png"tvg-logo="Documentary",Pluto TV Inside (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b4889bca2ce7b73ef2e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=303&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVMoviesGermany.us"group-title="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png"tvg-logo="Movies",Pluto TV Movies (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
-#EXTINF:-1 tvg-id="N24Doku.de"group-title="https://i.imgur.com/tqsIACJ.png"tvg-logo="Undefined",Pluto TV N24 Doku (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="EmmaeinfachmagischNickGermany.us"group-title="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png"tvg-logo="Kids",Pluto TV Nick Emma einfach magisch! (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="NickRewindGermany.us"group-title="https://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png"tvg-logo="Kids",Pluto TV Nick Rewind (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=262&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSitcomsGermany.us"group-title="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png"tvg-logo="Comedy",Pluto TV Sitcoms+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cd149f021cb6c55e258bbe8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=375760ce-ac7c-4306-818c-98562edc8da5&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSpongeBobSchwammkopf.us"group-title="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png"tvg-logo="Kids",Pluto TV SpongeBob Schwammkopf (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSurfGermany.us"group-title="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png"tvg-logo="Sports",Pluto TV Surf (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
-#EXTINF:-1 tvg-id="TeenNickGermany.us"group-title="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG.png"tvg-logo="Kids",Pluto TV TeenNick (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVVictorious.us"group-title="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png"tvg-logo="Undefined",Pluto TV Victorious (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVYogaGermany.us"group-title="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png"tvg-logo="Lifestyle",Pluto TV Yoga (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Radio21TV.de"group-title="https://i.imgur.com/ubEUBmB.png"tvg-logo="Music",Radio 21 TV (720p) [Not 24/7]
-https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="RadioPilatusTV.ch"group-title="https://i.imgur.com/TJ6iDYb.png"tvg-logo="Undefined",Radio Pilatus TV (1080p)
-https://edge.vedge.infomaniak.com/livecast/ik:rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio3i.ch"group-title="https://i.imgur.com/lp23ChL.jpg"tvg-logo="Undefined",Radio 3i (720p)
-https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de"group-title="https://i.imgur.com/81NIxYJ.jpg"tvg-logo="Movies",Rakuten Action Movies Germany (720p)
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.at"group-title="https://i.imgur.com/slOK2IH.jpg"tvg-logo="Movies",Rakuten Comedy Movies Austria (720p)
-https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de"group-title="https://i.imgur.com/slOK2IH.jpg"tvg-logo="Movies",Rakuten Comedy Movies Germany (720p)
-https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightAustria.at"group-title="https://i.imgur.com/5bC53Xk.jpg"tvg-logo="Movies",Rakuten Spotlight Austria (720p)
-https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de"group-title="https://i.imgur.com/5bC53Xk.jpg"tvg-logo="Movies",Rakuten Spotlight Germany (720p)
-https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopFreeGermany.de"group-title="https://i.imgur.com/kA27xdB.png"tvg-logo="Movies",Rakuten Top Free Germany (720p)
-https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaAustria.at"group-title="https://i.imgur.com/5bC53Xk.jpg"tvg-logo="Movies",Rakuten TV Shows Austria (720p)
-https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaGermany.de"group-title="https://i.imgur.com/5bC53Xk.jpg"tvg-logo="Movies",Rakuten TV Shows Germany (720p)
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at"group-title="https://i.imgur.com/7NeBmWX.jpg"tvg-logo="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://camo.githubusercontent.com/800e45eea70427fdd660e5f734e80b0ff713a4a77f2ac50138d8068b29bfba12/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63612f4461735f45727374655f323031342e7376672f36343070782d4461735f45727374655f323031342e7376672e706e67", Das Erste Ⓖ
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://camo.githubusercontent.com/5715e0a5d152c9a240a60fd1033a01663d030c417eae58ff2d72f49c6b56d031/68747470733a2f2f692e696d6775722e636f6d2f4a6f734e4c51302e706e67", ZDF Ⓖ
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://camo.githubusercontent.com/664779efc22480db27585b47222cd61bcb223503a8616f79d4fe9352711ae956/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38312f337361745f323031392e7376672f36343070782d337361745f323031392e7376672e706e67", 3sat Ⓖ
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://camo.githubusercontent.com/a731968e853dcfec23d9215bb82e76e60fcfa2c932931eb2537f9cecb8bac406/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30652f417274655f4c6f676f5f323031312e7376672f36343070782d417274655f4c6f676f5f323031312e7376672e706e67", ARTE Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://camo.githubusercontent.com/6f482a4b3810122d299f190e7ae0eaeec380c8dc8e18ca4e70b48cf0094ec273/68747470733a2f2f692e696d6775722e636f6d2f7a7535676151552e706e67", ONE Ⓖ
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo Ⓖ" tvg-logo="https://camo.githubusercontent.com/0c63f51c73b1cb9d02b8e8c976de699041ae5cc00a342a82f8b9bc6682baed29/68747470733a2f2f692e696d6775722e636f6d2f306a634e31314a2e706e67", ZDFinfo Ⓖ
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://camo.githubusercontent.com/8bc8d2ef5c40a60cc169767cf017cb305491895bef358d8b423ca486ec0723e5/68747470733a2f2f692e696d6775722e636f6d2f584d50495765532e706e67", ZDFneo Ⓖ
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://camo.githubusercontent.com/68190af0385246da88ff3602ac83b949d0b7cc1665361d08f3a071a7ec179056/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34332f50686f656e69782d6c6f676f2d323031382e7376672f36343070782d50686f656e69782d6c6f676f2d323031382e7376672e706e67", Phoenix Ⓖ
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png", MDR Sachsen-Anhalt Ⓖ
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png", MDR Sachsen Ⓖ
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png", MDR Thüringen Ⓖ
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png", NDR Hamburg Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430231/master.m3u8
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png", NDR Mecklenburg-Vorpommern Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430232/master.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png", NDR Niedersachsen Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png", NDR Schleswig-Holstein Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430234/master.m3u8
+#EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png", WDR Ⓖ
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png", SWR Baden-Württemberg Ⓖ
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png", SWR Rheinland-Pfalz Ⓖ
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/sr.png", SR Ⓖ
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png", HR Ⓖ
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 tvg-name="BR Nord Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png", BR Nord Ⓖ
+http://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png", BR Süd Ⓖ
+http://mcdn.br.de/bfs_sued/de/master.m3u8
+#EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/kika.png", KiKa Ⓖ
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://camo.githubusercontent.com/29f1c36d10ca904f02ebc5110a7df224d6731482915199c41cc9eb5c6987ec02/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32342f5461676573736368617532342d323031322e7376672f36343070782d5461676573736368617532342d323031322e7376672e706e67", Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://camo.githubusercontent.com/c72047a4b7b71c83a2cfcc0f008e5792cf301e6501556de9e60d7505f43ba91b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34622f4152445f616c7068612e7376672f36343070782d4152445f616c7068612e7376672e706e67", ARD Alpha Ⓖ
+http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-name="DW Ⓖ" tvg-logo="https://camo.githubusercontent.com/2adc200da1139f5d8339f46d834cdf217c84444c9371628393d2ff80966afc99/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36392f44657574736368655f57656c6c655f4c6f676f2e7376672f33323070782d44657574736368655f57656c6c655f4c6f676f2e7376672e706e67", DW Ⓖ
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png", RBB Berlin Ⓖ
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png", RBB Brandenburg Ⓖ
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://camo.githubusercontent.com/4bea9da82cd8fa7deddf7412976f7010566cc2b20ea56da03b160f04ffcd93b1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33392f4c6f676f5f526164696f5f4272656d656e2e7376672f36343070782d4c6f676f5f526164696f5f4272656d656e2e7376672e706e67", Radio Bremen Ⓖ
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://camo.githubusercontent.com/109031c5da21d1e5e4c1040deec1b28477c2426de0811026eaacdfc0a037f7c5/68747470733a2f2f692e696d6775722e636f6d2f6d686c646673422e706e67", Nick Ⓖ
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://camo.githubusercontent.com/0fcfa2c1544e1cb228531ceffb822d5e3a187bde5947c0538d3af6bebc1b54b1/68747470733a2f2f692e696d6775722e636f6d2f45363547514e392e706e67", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://camo.githubusercontent.com/539e1b240486561b07d06162ccc0b9a5cf9253459791ebc3479690194572708d/68747470733a2f2f692e706f7374696d672e63632f73444479644d365a2f4575726f6e6577732d323031362d6c6f676f2e706e67", Euronews Deutsch
+https://euronews.alteox.app/hls/de_stream.m3u8
