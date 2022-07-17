@@ -6,7 +6,7 @@ http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",Матч ТВ
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/d3d88ccc15c6faaec973180f035067d8ef4c9e28b5a46a3bdec8ba52544c13b1/68747470733a2f2f692e696d6775722e636f6d2f753851363944392e706e67",Пятый канал
 http://iptv.ktkru.ru:8005/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/45b81bdfdf75bff95afaa829a38b0c1bacddf1767106ae581e9682e403514269/68747470733a2f2f692e696d6775722e636f6d2f53313267614c632e706e67",Россия-Культура
