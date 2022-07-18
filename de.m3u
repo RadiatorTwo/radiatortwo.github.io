@@ -1,59 +1,77 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
-#EXTINF:-1 tvg-id="DasErste.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/512px-Das_Erste_2014.svg.png"group-title="Undefined",Das Erste (720p)
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png"group-title="Undefined",ZDF [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",ZDFinfo [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",ZDFneo [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="3sat.de"tvg-logo="https://i.imgur.com/EYjMgEn.png"group-title="Undefined",3sat [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",ARD-alpha (720p)
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARTEDeutsch.de"tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png"group-title="Entertainment",Arte Deutsch [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",BR Fernsehen Süd (720p)
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="DWDeutsch.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="News",DW Deutsch (1080p) [Geo-blocked]
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="News",DW Deutsch+ (1080p) [Geo-blocked]
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",Euronews Deutsch (720p)
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",hr-fernsehen (1080p)
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",KiKA [Geo-blocked]
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="MotorvisionTV.de"tvg-logo="https://i.imgur.com/QDZrBDi.png"group-title="Auto",Motorvision TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-#EXTINF:-1 tvg-id="NTVEurope.bd"tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png"group-title="General",NTV Europe (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"group-title="Legislative",Parlamentsfernsehen 1 (1080p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de"tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"group-title="Legislative",Parlamentsfernsehen 2 (270p)
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de"tvg-logo="https://i.imgur.com/T1532t9.png"group-title="Undefined",Phoenix [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de"tvg-logo="https://i.imgur.com/81NIxYJ.jpg"group-title="Movies",Rakuten Action Movies Germany (720p)
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de"tvg-logo="https://i.imgur.com/slOK2IH.jpg"group-title="Movies",Rakuten Comedy Movies Germany (720p)
-https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de"tvg-logo="https://i.imgur.com/5bC53Xk.jpg"group-title="Movies",Rakuten Spotlight Germany (720p)
-https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopFreeGermany.de"tvg-logo="https://i.imgur.com/kA27xdB.png"group-title="Movies",Rakuten Top Free Germany (720p)
-https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaGermany.de"tvg-logo="https://i.imgur.com/5bC53Xk.jpg"group-title="Movies",Rakuten TV Shows Germany (720p)
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at"tvg-logo="https://i.imgur.com/7NeBmWX.jpg"group-title="Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru"tvg-logo="https://i.imgur.com/XJGki3v.png"group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"group-title="News",RT en Español (1080p) [Geo-blocked]
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="RTNews.ru"tvg-logo="https://i.imgur.com/tyXIHlj.png"group-title="News",RT News (1080p) [Geo-blocked]
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png"group-title="Undefined",SR Fernsehen (720p)
-http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Undefined",WDR Koeln (720p)
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135824
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132821
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 GOLD FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30356
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132820
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FUN FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30053
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 MAXX FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132819
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132818
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132817
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL CRIME FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173741
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL LIVING FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3483
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL PASSION FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173742
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL - TOGGO FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173746
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132822
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS CLASSICS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29036
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132823
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SIXX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173743
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132826
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173451
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PHOENIX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30052
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF NEO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3489
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NITRO FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3423
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIP TAGESSCHAU24 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377341
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NTV FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173738
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS DOKU FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30388
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KIKA FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8186
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3445
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132727
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 00S
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132726
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 80S
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/360620
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 90S
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/230486
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV DANCE
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/230251
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV GERMANY
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/228971
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIP MTV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377299
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ANIXE HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173476
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ANIXE+ HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/249383
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WELT HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132825
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DMAX FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3464
