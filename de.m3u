@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/erste.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/ZDF.png",ZDF HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135824
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Sat1.png",SAT 1 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132821
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 GOLD FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/sat1gold.png",SAT 1 GOLD FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30356
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/prosieben.png",PRO 7 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132820
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 FUN FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/prosieben-fun-logo.png",PRO 7 FUN FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30053
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO 7 MAXX FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/prosiebenmaxx.jpg",PRO 7 MAXX FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132819
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/rtl.jpg",RTL FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132818
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/RTLZWEI.png",RTL 2 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132817
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL CRIME FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/RTL_Crime.png",RTL CRIME FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173741
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL LIVING FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/RTL_Living.png",RTL LIVING FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3483
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL PASSION FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/RTL_Passion.png",RTL PASSION FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173742
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL - TOGGO FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/super-rtl.jpg",SUPER RTL - TOGGO FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173746
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/KabelEins.png",KABEL EINS FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132822
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS CLASSICS FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Kabel_Eins_Classics.png",KABEL EINS CLASSICS FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29036
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/VOX.png",VOX FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132823
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SIXX HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/sixx.png",SIXX HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173743
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/arte.png",ARTE FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132826
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/3sat.png",3SAT FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173451
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PHOENIX HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Phoenix_HD.png",PHOENIX HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30052
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF NEO HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/ZDFneo.png",ZDF NEO HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3489
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NITRO FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/nitro.png",NITRO FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3423
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIP TAGESSCHAU24 HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Tagesschau24.png",TAGESSCHAU24 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377341
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NTV FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Ntv.png",NTV FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173738
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS DOKU FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Kabel_eins_Doku.png",KABEL EINS DOKU FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30388
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KIKA FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/kika.jpg",KIKA FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8186
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Disney_Channel.png",DISNEY CHANNEL FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3445
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Comedy_Central.png",COMEDY CENTRAL HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132727
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 00S
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/MTV_00s.png",MTV 00S
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132726
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 80S
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/mtv-80s.png",MTV 80S
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/360620
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV 90S
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/MTV_90s.png",MTV 90S
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/230486
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV DANCE
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/MTV_Dance.png",MTV DANCE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/230251
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",MTV GERMANY
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/mtv-80s.png",MTV GERMANY
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/228971
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VIP MTV HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/mtv-80s.png",MTV HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377299
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ANIXE HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/Anixe_HD.png",ANIXE HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/173476
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ANIXE+ HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/ANXIEplus.jpg",ANIXE+ HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/249383
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WELT HD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/WeltHD.png",WELT HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132825
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DMAX FHD
+#EXTINF:0 tvg-country="DE" tvg-logo="https://radiatortwo.github.io/logo/DMAX.png",DMAX FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3464
