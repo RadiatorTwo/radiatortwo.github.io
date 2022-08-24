@@ -13,7 +13,7 @@ http://iptv.ktkru.ru:8005/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/45b81bdfdf75bff95afaa829a38b0c1bacddf1767106ae581e9682e403514269/68747470733a2f2f692e696d6775722e636f6d2f53313267614c632e706e67",Россия-Культура
 http://iptv.ktkru.ru:8006/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+http://iptv.ktkru.ru:8007/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/0ae4dca6c801aed3453a28727b698b79438043e42496d2d76d6acf76aadb4676/68747470733a2f2f692e696d6775722e636f6d2f3466464d6c56712e706e67",Карусель
 http://iptv.ktkru.ru:8008/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/d6324d81846b02aeb5081f4328c4e7316cc0d2f8d3c3d4a9e27b078a08abed02/68747470733a2f2f692e696d6775722e636f6d2f51795a765433652e706e67",ОТР 
