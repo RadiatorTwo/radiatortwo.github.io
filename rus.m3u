@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" tvg-shift=0
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67",Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
+https://vk.com/video-25380626_456283287
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/01dbd8bbf909ae4c13d50cf408faf6cf38ad778ded6c54b5b5f565752d35a729/68747470733a2f2f692e696d6775722e636f6d2f574936684b657a2e706e67",Россия 1
 http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",Матч ТВ
