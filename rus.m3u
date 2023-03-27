@@ -42,3 +42,7 @@ http://iptv.ktkru.ru:8019/index.m3u8
 http://iptv.ktkru.ru:8020/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="Pobeda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа (576p) [Not 24/7]
 https://sc.id-tv.kz/Pobeda.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" tvg-id="RBKTV.ru" group-title="Russisch",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr" group-title="Russisch",Euronews по-русски
+https://euronews.alteox.app/hls/ru_stream.m3u8
