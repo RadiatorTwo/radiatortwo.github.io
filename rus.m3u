@@ -38,15 +38,15 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/c43cc617b6de3b9b83dc14a27992cfab4b39463d686c85e47203dd42461b490e/68747470733a2f2f692e696d6775722e636f6d2f31577149504f422e706e67",ТНТ 
 https:\\livetv.mylifeisgood.ml\channels\tnt.m3u8
-#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/c43cc617b6de3b9b83dc14a27992cfab4b39463d686c85e47203dd42461b490e/68747470733a2f2f692e696d6775722e636f6d2f31577149504f422e706e67",ТНТ 4
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt4-ru.png",ТНТ 4
 https:\\bl.uma.media\live\317849\HLS\4614144_3\1\1\playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",Муз-ТВ
 http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",1mus
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/1music.png",1mus
 http:\\rtmp.one.by:2300
-#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",VIVA Россия
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/VIVA_TV_RUSSIA.png",VIVA Россия
 https:\\live.prd.dlive.tv\hls\live\viva-russia.m3u8
-#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",ТНТ Music
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt-music-ru.png",ТНТ Music
 https:\\bl.uma.media\live\619345\HLS\619345_3\1\1\playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="Pobeda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа (576p) [Not 24/7]
 https://sc.id-tv.kz/Pobeda.m3u8
