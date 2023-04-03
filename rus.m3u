@@ -12,13 +12,13 @@ http://185.23.80.28:8080/RossiyaK/index.m3u8
 http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",НТВ
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+#EXTINF:-1 group-title="Russisch" tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
@@ -36,8 +36,8 @@ https://livetv.mylifeisgood.ml/channels/tv3.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.it999.ru/img/1767.png",THT HD
-https://livetv.mylifeisgood.ml/channels/tnt.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img/1767.png",THT HD
+http://myott.top/stream/I1QWREIYXX/135.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt4-ru.png",ТНТ 4
 https://bl.uma.media/live/317849/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/1music.png",1mus
@@ -48,36 +48,25 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="Pobeda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа (576p) [Not 24/7]
 https://sc.id-tv.kz/Pobeda.m3u8
-#EXTINF:-1 tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" tvg-id="RBKTV.ru" group-title="Russisch",РБК
+#EXTINF:-1 group-title="Russisch" tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" tvg-id="RBKTV.ru",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr" group-title="Russisch",Euronews по-русски
+#EXTINF:-1 group-title="Russisch" tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr",Euronews по-русски
 https://euronews.alteox.app/hls/ru_stream.m3u8
-#EXTGRP:⛹🏿‍ Спортивные
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
+#EXTINF:-1 group-title="Russisch" tvg-id="no_epg_sport" tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTGRP:⛹🏿‍ Спортивные
-#EXTGRP:📽️ Фильмовые
-#EXTGRP:📽️ Фильмовые
-#EXTINF:0 tvg-id="kino-tv" tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
+#EXTINF:-1 group-title="Russisch" tvg-id="kino-tv" tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:-1  tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:-1  tvg-id="vip-megahit" tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-megahit" tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:-1  tvg-id="vip-premiere" tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-premiere" tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:0 tvg-id="vip-serial" tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-serial" tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:-1  tvg-id="tv1000" tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000" tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:-1  tvg-id="tv1000-action" tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000-action" tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTGRP:📽️ Фильмовые
-#EXTINF:0 tvg-id="tv1000-russkoe-kino" tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000-russkoe-kino" tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
