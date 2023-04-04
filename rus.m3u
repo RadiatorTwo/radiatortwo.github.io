@@ -4,6 +4,8 @@
 http://hlstv.brn.211.ru/239.211.200.1/stream.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/01dbd8bbf909ae4c13d50cf408faf6cf38ad778ded6c54b5b5f565752d35a729/68747470733a2f2f692e696d6775722e636f6d2f574936684b657a2e706e67",Россия 1
 https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/rtr_planeta.png",Россия РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/Rossiya-K.png",Россия К
@@ -20,8 +22,10 @@ https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/105.png" catchup-days="6" catchup-type="flussonic-ts", RT HD
+http://ru01.spr24.net/105/mpegts?token=EscLb5rPYxZzRw
+#EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/214.png" catchup-days="6" catchup-type="flussonic-ts", RT Doc HD
+http://ru01.spr24.net/214/mpegts?token=EscLb5rPYxZzRw
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/6407ccd02963f89ddf89d92340ebf703e20db119bc031cd20cc0c36e08b298af/68747470733a2f2f692e696d6775722e636f6d2f5a5030443652642e706e67",ТВ Центр
 http://79.141.211.254:8000/TVCH
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/678d4191350ac1cd7a17dda0f1c54c5326ebbf14b7fdc1af1e91f84ff986db72/68747470733a2f2f692e696d6775722e636f6d2f313854417a59562e706e67",Рен ТВ
