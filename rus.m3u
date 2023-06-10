@@ -13,9 +13,9 @@ http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/15451/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",Матч ТВ
 http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",НТВ
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/501/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
-http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/741/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9328/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
@@ -23,23 +23,23 @@ http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/744/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/18039/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/105.png" catchup-days="6" catchup-type="flussonic-ts", RT HD
-http://ru01.spr24.net/105/mpegts?token=EscLb5rPYxZzRw
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9220/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/214.png" catchup-days="6" catchup-type="flussonic-ts", RT Doc HD
-http://ru01.spr24.net/214/mpegts?token=EscLb5rPYxZzRw
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9031/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/6407ccd02963f89ddf89d92340ebf703e20db119bc031cd20cc0c36e08b298af/68747470733a2f2f692e696d6775722e636f6d2f5a5030443652642e706e67",ТВ Центр
 http://79.141.211.254:8000/TVCH
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/678d4191350ac1cd7a17dda0f1c54c5326ebbf14b7fdc1af1e91f84ff986db72/68747470733a2f2f692e696d6775722e636f6d2f313854417a59562e706e67",Рен ТВ
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/a94ed10d1f3598b0604be18b70283415264d71c28076efe61c5e5da7c646a69b/68747470733a2f2f692e696d6775722e636f6d2f793962707155442e706e67",СТС 
-https://livetv.mylifeisgood.ml/channels/sts.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9000/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/460b5e1033d2908296548038af7d1fb64654d31c3db5b59e91ecc070b336f628/68747470733a2f2f692e696d6775722e636f6d2f6538776c4d49742e706e67",Домашний 
-https://livetv.mylifeisgood.ml/channels/domashnii.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9104/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/d1d604ec88c8a5286112b7099fd16cebe011262e5e43208ff8a4bf496e84f1ec/68747470733a2f2f692e696d6775722e636f6d2f6b6a61785a6d732e706e67",ТВ-3
 https://livetv.mylifeisgood.ml/channels/tv3.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/f62b34b4cc8240c12bfe308932a6d0cf783c0209f0dfcdacfec01f54f9b0f24d/68747470733a2f2f692e696d6775722e636f6d2f63304c306e63412e706e67",Звезда 
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9098/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/9211/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img/1767.png",THT HD
 http://myott.top/stream/I1QWREIYXX/135.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt4-ru.png",ТНТ 4
@@ -47,7 +47,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/1music.png",1mus
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/VIVA_TV_RUSSIA.png",VIVA Россия
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/10063/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt-music-ru.png",ТНТ Music
 https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="Pobeda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа (576p) [Not 24/7]
@@ -57,9 +57,9 @@ http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr",Euronews по-русски
 https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="no_epg_sport" tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
-https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/10057/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="kino-tv" tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+http://23deb70c.ucomist.net/iptv/QM9UM87S8FQCZ2/2097/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-id="vip-megahit" tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
