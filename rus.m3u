@@ -1,40 +1,76 @@
 #EXTM3U
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" tvg-shift=0
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67",Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/01dbd8bbf909ae4c13d50cf408faf6cf38ad778ded6c54b5b5f565752d35a729/68747470733a2f2f692e696d6775722e636f6d2f574936684b657a2e706e67",Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",Матч ТВ
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d3d88ccc15c6faaec973180f035067d8ef4c9e28b5a46a3bdec8ba52544c13b1/68747470733a2f2f692e696d6775722e636f6d2f753851363944392e706e67",Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/45b81bdfdf75bff95afaa829a38b0c1bacddf1767106ae581e9682e403514269/68747470733a2f2f692e696d6775722e636f6d2f53313267614c632e706e67",Россия-Культура
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/0ae4dca6c801aed3453a28727b698b79438043e42496d2d76d6acf76aadb4676/68747470733a2f2f692e696d6775722e636f6d2f3466464d6c56712e706e67",Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d6324d81846b02aeb5081f4328c4e7316cc0d2f8d3c3d4a9e27b078a08abed02/68747470733a2f2f692e696d6775722e636f6d2f51795a765433652e706e67",ОТР 
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/6407ccd02963f89ddf89d92340ebf703e20db119bc031cd20cc0c36e08b298af/68747470733a2f2f692e696d6775722e636f6d2f5a5030443652642e706e67",ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/678d4191350ac1cd7a17dda0f1c54c5326ebbf14b7fdc1af1e91f84ff986db72/68747470733a2f2f692e696d6775722e636f6d2f313854417a59562e706e67",Рен ТВ
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/a94ed10d1f3598b0604be18b70283415264d71c28076efe61c5e5da7c646a69b/68747470733a2f2f692e696d6775722e636f6d2f793962707155442e706e67",СТС 
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/460b5e1033d2908296548038af7d1fb64654d31c3db5b59e91ecc070b336f628/68747470733a2f2f692e696d6775722e636f6d2f6538776c4d49742e706e67",Домашний 
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d1d604ec88c8a5286112b7099fd16cebe011262e5e43208ff8a4bf496e84f1ec/68747470733a2f2f692e696d6775722e636f6d2f6b6a61785a6d732e706e67",ТВ-3
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/d9ff9529fa939501bf52e40ec858d66a9de719677fbeaac692a8f9847f8f88f0/68747470733a2f2f692e696d6775722e636f6d2f725331317a56422e706e67",Пятница! 
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/f62b34b4cc8240c12bfe308932a6d0cf783c0209f0dfcdacfec01f54f9b0f24d/68747470733a2f2f692e696d6775722e636f6d2f63304c306e63412e706e67",Звезда 
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67",Первый канал
+http://185.23.80.26:8080/lb/Pervyj/index.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/01dbd8bbf909ae4c13d50cf408faf6cf38ad778ded6c54b5b5f565752d35a729/68747470733a2f2f692e696d6775722e636f6d2f574936684b657a2e706e67",Россия 1
+http://80.251.49.103:8003/play/110
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/rtr_planeta.png",Россия РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/Rossiya-K.png",Россия К
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",Матч ТВ
+http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/7434ddfd2a8415c3e10acfa3723654f1e951c53fe0992ec14f8caa9ad1080c47/68747470733a2f2f692e696d6775722e636f6d2f6b46646f6f52342e706e67",НТВ
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+http://176.222.190.75/btv/SWM/ntv_style/ntv_style_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+http://176.222.190.75/btv/SWM/ntv_serial/ntv_serial_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/105.png" catchup-days="6" catchup-type="flussonic-ts", RT HD
+http://ru01.spr24.net/105/mpegts?token=EscLb5rPYxZzRw
+#EXTINF:-1 group-title="Russisch" tvg-logo="http://iptv-content.rv77.pw/336x192/214.png" catchup-days="6" catchup-type="flussonic-ts", RT Doc HD
+http://ru01.spr24.net/214/mpegts?token=EscLb5rPYxZzRw
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/6407ccd02963f89ddf89d92340ebf703e20db119bc031cd20cc0c36e08b298af/68747470733a2f2f692e696d6775722e636f6d2f5a5030443652642e706e67",ТВ Центр
+http://79.141.211.254:8000/TVCH
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/678d4191350ac1cd7a17dda0f1c54c5326ebbf14b7fdc1af1e91f84ff986db72/68747470733a2f2f692e696d6775722e636f6d2f313854417a59562e706e67",Рен ТВ
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/a94ed10d1f3598b0604be18b70283415264d71c28076efe61c5e5da7c646a69b/68747470733a2f2f692e696d6775722e636f6d2f793962707155442e706e67",СТС 
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/460b5e1033d2908296548038af7d1fb64654d31c3db5b59e91ecc070b336f628/68747470733a2f2f692e696d6775722e636f6d2f6538776c4d49742e706e67",Домашний 
+https://livetv.mylifeisgood.ml/channels/domashnii.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/d1d604ec88c8a5286112b7099fd16cebe011262e5e43208ff8a4bf496e84f1ec/68747470733a2f2f692e696d6775722e636f6d2f6b6a61785a6d732e706e67",ТВ-3
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/f62b34b4cc8240c12bfe308932a6d0cf783c0209f0dfcdacfec01f54f9b0f24d/68747470733a2f2f692e696d6775722e636f6d2f63304c306e63412e706e67",Звезда 
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/19bfbda146d9bf4d122a64eab5096bd5e8c874ab4110dfaee1a5b985faf292ab/68747470733a2f2f692e696d6775722e636f6d2f4c32736c7362472e706e67",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/c43cc617b6de3b9b83dc14a27992cfab4b39463d686c85e47203dd42461b490e/68747470733a2f2f692e696d6775722e636f6d2f31577149504f422e706e67",ТНТ 
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://camo.githubusercontent.com/7abf7e4ece866346edf299caefd1d4ec52abc099c49e993474465b771436241c/68747470733a2f2f692e696d6775722e636f6d2f4d6c3371714f462e706e67",Муз-ТВ
-http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="tnt" tvg-logo="http://epg.it999.ru/img/1767.png",THT HD
+http://myott.top/stream/I1QWREIYXX/135.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt4-ru.png",ТНТ 4
+https://bl.uma.media/live/317849/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/1music.png",1mus
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/VIVA_TV_RUSSIA.png",VIVA Россия
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-logo="https://radiatortwo.github.io/logo/tnt-music-ru.png",ТНТ Music
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="Pobeda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа (576p) [Not 24/7]
+https://sc.id-tv.kz/Pobeda.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" tvg-id="RBKTV.ru",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr",Euronews по-русски
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="no_epg_sport" tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="kino-tv" tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-comedy" tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-megahit" tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-premiere" tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="vip-serial" tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000" tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000-action" tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Russisch" tvg-id="tv1000-russkoe-kino" tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
