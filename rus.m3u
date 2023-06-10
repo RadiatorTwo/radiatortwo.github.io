@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" tvg-shift=0
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/0af5f37e6bc5147b987967b054255be0cae70262e01bbfb08d785f6800ab23b6/68747470733a2f2f692e696d6775722e636f6d2f314971434765392e706e67",Первый канал
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://185.23.80.26:8080/lb/Pervyj/index.m3u8
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/01dbd8bbf909ae4c13d50cf408faf6cf38ad778ded6c54b5b5f565752d35a729/68747470733a2f2f692e696d6775722e636f6d2f574936684b657a2e706e67",Россия 1
 http://80.251.49.103:8003/play/110
 #EXTINF:-1 group-title="Russisch" tvg-logo="https://camo.githubusercontent.com/28746b2c5865cea1b178fced948d030e3acb905b2dc5f1c42264d35692b35088/68747470733a2f2f692e696d6775722e636f6d2f74707173467a6d2e706e67",Россия-24
